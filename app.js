@@ -74,4 +74,4 @@ document.addEventListener("DOMContentLoaded", () => {
     fetchJobs(); // Load jobs on page load
 });
 
-fetch("https://cuvette-tech-clone-aarohi-sahu.vercel.app/") 
+fetch("https://cuvette-tech-clone-aarohi-sahu.vercel.app/api/jobs") 
