@@ -71,3 +71,4 @@ pool.query('SELECT * FROM "availableJobs"',(err, res)=>{
     console.log("Query Successful:", res.rows);
   }
 });
+
