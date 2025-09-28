@@ -10,13 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // PostgreSQL connection
-const pool = new Pool({
-    user: 'postgres', 
-    host: 'localhost',
-    database: 'joblistings', 
-    password: 'makingWeb', 
-    port: 5432,
-});
+
 
 app.get('/jobs', async (_req, res) => {
   try {
