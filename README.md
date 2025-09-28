@@ -1,2 +1,2 @@
-# Cuvette.tech-aarohi-sahu
- Liftoff Onboarding. Week 5
+# Cuvette.tech-clone-aarohi-sahu
+ Created using HTML, CSS, JavaScript and Node.js
